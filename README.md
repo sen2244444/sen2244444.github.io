@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<iseng aja sih hehe>
 <html lang="id">
 <head>
     <meta charset="UTF-8">
