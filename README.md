@@ -44,12 +44,12 @@
 <body>
 
 <header>
-    <h1>Judul Desain</h1>
+    <h1>@KAITOSEN1412</h1>
 </header>
 
 <div class="container">
-    <h1>Halo, Dunia!</h1>
-    <p>Ini adalah contoh implementasi desain dari gambar.</p>
+    <h1>uda ilang webnya</h1>
+    <p>Ini bye bye.</p>
     <a href="#" class="button">Klik Saya</a>
 </div>
 
